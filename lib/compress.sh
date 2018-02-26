@@ -1,8 +1,3 @@
-#/bin/sh
-# Requires Closure Compiler Application
-# https://developers.google.com/closure/compiler/docs/gettingstarted_app
-
-# --compilation_level ADVANCED_OPTIMIZATIONS 
 
 SCRIPTS=("turn" "turn.html4" "zoom" "scissor")
 SCRIPTS_LEN=${#SCRIPTS[@]}
