@@ -3,7 +3,7 @@ function addPage(page, book) {
 
 	var id, pages = book.turn('pages');
 
-	// Create a new element for this page
+	
 	var element = $('<div />', {});
 
 	// Add the page to the flipbook
